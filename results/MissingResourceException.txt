@@ -1,0 +1,6 @@
+29635462,1429038422,False,211,1,0,1,[u'java', u'android', u'resourcebundle']
+10723709,1337788760,True,3728,3,0,0,[u'android', u'obfuscation', u'admob', u'proguard', u'adview']
+28154938,1422291568,True,21,1,0,1,[u'android', u'amazon', u'kindle']
+22297532,1394446931,True,555,1,0,2,[u'android', u'text-to-speech']
+5995667,1305308089,False,677,1,0,0,[u'android', u'exception', u'crash', u'mapactivity']
+2232232,1265746660,True,1857,1,1,0,[u'java', u'android', u'netbeans']

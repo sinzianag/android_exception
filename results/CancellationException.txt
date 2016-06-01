@@ -1,0 +1,7 @@
+28433749,1423577429,False,189,0,2,8,[u'android', u'android-adapter', u'google-tv', u'android-tv', u'leanback']
+25322651,1408087286,True,216,1,1,2,[u'java', u'android', u'concurrency', u'android-asynctask']
+19289006,1381388108,True,368,2,1,4,[u'android', u'multithreading', u'android-asynctask']
+17664265,1373923686,False,158,1,2,1,[u'java', u'android', u'multithreading', u'exception', u'memory-leaks']
+3044737,1276601890,False,921,0,1,3,[u'android', u'exception', u'android-asynctask']
+13898210,1355626616,False,1144,1,3,7,[u'android', u'android-asynctask']
+11517943,1342510477,True,6288,1,5,3,[u'java', u'android', u'multithreading']

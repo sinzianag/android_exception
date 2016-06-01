@@ -1,0 +1,4 @@
+32139667,1440158044,False,183,1,0,0,[u'android', u'bluetooth', u'bluetooth-lowenergy']
+36202129,1458828368,False,43,0,0,8,[u'java', u'android']
+31022980,1435138609,False,214,1,0,0,[u'java', u'android', u'webrequest']
+23150310,1397809541,True,233,1,0,9,[u'java', u'android', u'dalvik']

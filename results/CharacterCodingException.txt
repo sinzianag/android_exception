@@ -1,0 +1,5 @@
+35080234,1454057120,False,56,1,0,0,[u'android', u'encryption', u'aes']
+4233461,1290266911,True,9245,4,8,0,[u'android', u'sms', u'special-characters', u'character-encoding']
+30357377,1432145650,True,127,1,0,0,[u'java', u'android', u'zxing', u'qr-code']
+18044606,1375630669,False,374,1,0,0,[u'android', u'qr-code']
+2903756,1274782873,True,3935,1,1,0,[u'xml', u'android', u'parsing', u'sax']

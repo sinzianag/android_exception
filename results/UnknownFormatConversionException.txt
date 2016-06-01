@@ -1,0 +1,7 @@
+32459740,1441720589,True,124,2,1,2,[u'android', u'xml', u'oneplusone']
+30977392,1434968179,False,67,0,1,4,[u'android', u'string', u'formatting', u'resources']
+30261290,1431698070,True,25,2,0,0,[u'android', u'exception', u'exception-handling', u'format']
+16767338,1369635439,False,224,0,6,0,[u'android', u'android-date']
+19279699,1381342897,True,1323,1,1,0,[u'android', u'formatting', u'android-xml', u'cdata']
+21471237,1391133705,True,555,2,0,0,[u'java', u'android', u'android-resources']
+12806142,1349807238,True,270,1,1,8,[u'java', u'android', u'sqlite']

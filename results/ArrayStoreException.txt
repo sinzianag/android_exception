@@ -1,0 +1,8 @@
+36569165,1460453459,True,40,1,1,0,[u'java', u'android', u'json', u'generics', u'type-conversion']
+32242856,1440659435,True,56,2,0,1,[u'android', u'sqlite', u'bitmap']
+31254193,1436211413,False,55,0,0,10,[u'java', u'android', u'c++', u'jni']
+26274168,1412844659,False,60,0,0,3,[u'android', u'achartengine']
+1023209,1245558901,True,715,2,1,5,[u'java', u'android']
+14751885,1360242564,False,671,1,0,1,[u'android', u'c++', u'eclipse', u'cocos2d-x', u'nexus-7']
+8288818,1322426068,False,375,1,0,3,[u'android', u'arraylist']
+4265261,1290591160,True,1629,3,0,5,[u'java', u'android', u'xml', u'alertdialog']

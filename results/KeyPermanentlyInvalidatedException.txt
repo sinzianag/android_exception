@@ -1,0 +1,6 @@
+34585926,1451889667,False,183,1,2,2,[u'android']
+36914025,1461844841,False,14,0,0,3,[u'android']
+35992681,1457972265,True,251,1,2,0,[u'android', u'encryption', u'android-keystore', u'android-fingerprint-api']
+35934729,1457681999,False,105,1,0,12,[u'java', u'android', u'xml', u'android-studio']
+36015194,1458054859,True,66,1,0,0,[u'android', u'encryption', u'keystore', u'android-keystore', u'android-fingerprint-api']
+31579686,1437632932,True,236,1,2,0,[u'android', u'nullpointerexception', u'keystore', u'secret-key']

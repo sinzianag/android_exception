@@ -1,0 +1,3 @@
+27733894,1420140303,True,47,2,1,6,[u'android', u'file', u'synchronization', u'locking']
+16633654,1368959175,True,225,1,1,0,[u'java', u'android']
+13894559,1355593201,True,318,1,0,0,[u'android', u'database']

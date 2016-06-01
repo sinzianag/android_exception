@@ -1,0 +1,8 @@
+24319976,1403238575,True,256,1,0,1,[u'java', u'android', u'sqlite']
+14340898,1358263316,True,1045,1,2,0,[u'android', u'code-analysis', u'code-smell', u'pmd']
+24259219,1402994149,True,112,1,0,13,[u'java', u'android', u'android-sqlite']
+6231941,1307130512,False,2311,2,9,6,[u'android', u'sqlite', u'exception', u'exception-handling', u'storage']
+13574085,1353968139,False,322,0,3,0,[u'java', u'android', u'database', u'sqlite']
+7118135,1313737929,True,349,2,0,2,[u'android', u'sqlite']
+3656417,1283842960,True,2994,1,0,0,[u'android']
+2052999,1263335920,True,4255,1,4,2,[u'android', u'size', u'storage', u'limit', u'internal']

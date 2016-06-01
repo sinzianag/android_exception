@@ -1,0 +1,5 @@
+28497596,1423823707,False,51,1,0,0,[u'java', u'android']
+24509264,1404214414,True,744,1,2,0,[u'android', u'zipinputstream']
+24525139,1404285693,True,507,2,0,1,[u'java', u'android', u'zipinputstream']
+13234590,1352127308,True,694,2,2,0,[u'android']
+11210504,1340723702,True,1384,1,1,1,[u'android', u'utf', u'datainputstream']

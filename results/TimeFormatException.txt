@@ -1,0 +1,2 @@
+14893131,1360925645,False,1445,1,0,2,[u'android', u'nullpointerexception', u'android-service', u'fatal-error']
+5374465,1300688621,True,353,2,0,0,[u'android', u'exception', u'time']

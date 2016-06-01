@@ -1,0 +1,8 @@
+28355206,1423174929,True,58,1,1,0,[u'java', u'android', u'reflection']
+28269664,1422837735,True,551,2,0,0,[u'java', u'android', u'static', u'verifyerror']
+30086013,1430941078,True,95,2,0,0,[u'java', u'android']
+29067136,1426459791,True,210,1,0,2,[u'java', u'android', u'xml', u'google-analytics']
+25640648,1409736058,True,117,1,0,0,[u'java', u'android', u'reflection', u'anonymous-class', u'verifyerror']
+24992670,1406541127,True,244,1,1,1,[u'java', u'android', u'reflection', u'verifyerror']
+18797284,1379120566,False,51,2,1,2,[u'java', u'android', u'web-services', u'soap']
+10462911,1336229084,True,850,1,4,6,[u'java', u'android', u'classpath', u'classnotfoundexception']

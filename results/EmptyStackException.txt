@@ -1,0 +1,3 @@
+31010045,1435082181,True,82,1,-2,5,[u'java', u'android', u'xml', u'android-layout']
+16912496,1370332334,True,750,1,0,5,[u'android', u'list', u'memory-leaks', u'android-activity']
+13839784,1355315294,False,121,0,0,7,[u'android']

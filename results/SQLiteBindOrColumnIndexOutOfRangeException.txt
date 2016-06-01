@@ -1,0 +1,4 @@
+19639110,1382974938,True,27,1,-1,0,[u'android', u'sqlite', u'prepared-statement']
+19492317,1382352088,True,353,1,0,0,[u'android', u'sqlite', u'sql-like']
+17981032,1375304929,True,165,1,0,2,[u'java', u'android', u'sql', u'database', u'sqlite']
+11458590,1342118847,True,1100,1,1,0,[u'android', u'sqlite', u'exception']

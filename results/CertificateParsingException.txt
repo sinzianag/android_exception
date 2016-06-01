@@ -1,0 +1,1 @@
+9469899,1330365960,True,604,1,2,0,[u'android', u'android-ndk', u'android-logcat']

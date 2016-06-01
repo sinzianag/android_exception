@@ -1,0 +1,8 @@
+8622367,1324695035,True,29886,5,70,8,[u'android', u'encryption', u'aes']
+33093924,1444709072,False,180,1,0,6,[u'java', u'android', u'encryption', u'cryptography']
+30043096,1430791420,True,339,1,1,0,[u'c#', u'android', u'bouncycastle']
+29626232,1429011171,True,317,1,1,1,[u'javascript', u'android', u'encryption', u'aes']
+28069885,1421851258,True,410,1,0,0,[u'javascript', u'android', u'encryption', u'cryptojs']
+16299042,1367322126,True,207,1,2,3,[u'java', u'android', u'encryption', u'aes']
+14726852,1360146831,False,406,1,0,7,[u'android', u'encryption', u'blowfish']
+13493364,1353501133,True,316,2,2,1,[u'android']

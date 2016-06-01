@@ -1,0 +1,1 @@
+13377212,1352889553,False,2779,1,1,1,[u'android', u'serial-port', u'rxtx']

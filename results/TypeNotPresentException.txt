@@ -1,0 +1,7 @@
+36421185,1459845466,True,62,1,0,5,[u'java', u'android', u'arrays', u'android-edittext', u'forceclose']
+34736229,1452576745,False,34,0,0,0,[u'android', u'android-5.0-lollipop', u'ibm', u'android-4.4-kitkat', u'dagger']
+28355206,1423174929,True,59,1,1,0,[u'java', u'android', u'reflection']
+31490225,1437215405,True,219,1,1,1,[u'android', u'crash', u'crashlytics']
+28757478,1425010881,True,444,1,8,15,[u'android', u'android-5.0-lollipop', u'noclassdeffounderror', u'classnotfoundexception', u'retrofit']
+16325458,1367438221,False,90,1,0,7,[u'android', u'stream', u'antlr']
+14354962,1358328320,True,1349,1,8,5,[u'android', u'eclipse', u'robolectric']

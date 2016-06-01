@@ -1,0 +1,5 @@
+23842426,1400916541,True,214,1,-1,1,[u'java', u'android']
+17334502,1372306950,False,316,0,1,0,[u'android', u'android-emulator', u'cordova']
+16638927,1368993803,False,2338,1,3,0,[u'android', u'websocket']
+13050848,1351087206,True,318,1,1,0,[u'android', u'networking', u'nio']
+9665112,1331546959,True,480,1,0,0,[u'java', u'android', u'socketchannel']

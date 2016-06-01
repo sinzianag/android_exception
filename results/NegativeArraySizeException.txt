@@ -1,0 +1,6 @@
+36930124,1461907214,True,37,1,0,6,[u'android', u'android-volley']
+27204959,1417282180,True,103,1,0,0,[u'android', u'json', u'weather-api', u'openweathermap']
+26290804,1412906437,True,426,2,1,1,[u'android', u'android-volley']
+21927963,1392967574,True,43,1,1,2,[u'android', u'download', u'apk']
+6544057,1309499229,True,65,1,0,0,[u'android']
+4047138,1288299643,True,1542,1,2,0,[u'android']

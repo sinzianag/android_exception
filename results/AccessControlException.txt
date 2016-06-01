@@ -1,0 +1,4 @@
+30521951,1432878247,False,65,0,1,0,[u'android', u'file-permissions', u'android-externalstorage']
+4064810,1288554386,True,37598,1,36,0,[u'java', u'android', u'ssl']
+15952814,1365694060,False,355,1,3,2,[u'java', u'android', u'ssl']
+6940144,1312455358,True,37,2,0,0,[u'java', u'android', u'eclipse']

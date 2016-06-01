@@ -1,0 +1,4 @@
+33956467,1448623960,True,27,2,0,1,[u'android', u'json', u'networking', u'string-formatting', u'put']
+30166377,1431343320,True,418,2,1,1,[u'android', u'string', u'string.format', u'invocationtargetexception']
+28133103,1422158765,True,176,1,1,7,[u'java', u'android', u'string', u'string-formatting']
+15888770,1365454423,True,92,1,0,0,[u'android', u'sqlite']

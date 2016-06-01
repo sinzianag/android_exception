@@ -1,0 +1,6 @@
+35090893,1454089853,False,162,1,2,3,[u'android', u'sqlite', u'android-sqlite']
+30082008,1430928411,True,1860,1,19,3,[u'android', u'sqlite', u'android-webview']
+9884969,1332832825,True,10208,3,2,2,[u'android', u'database', u'sqlite', u'readonly']
+22692140,1395934015,False,53,1,0,0,[u'android', u'database', u'sqlite']
+13195703,1351861092,True,1335,1,0,4,[u'android', u'android-sqlite']
+12990391,1350750312,False,267,0,1,0,[u'android', u'sqlite', u'android-4.0']

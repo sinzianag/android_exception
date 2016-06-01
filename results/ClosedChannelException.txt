@@ -1,0 +1,4 @@
+20363112,1386110027,True,94,1,0,2,[u'java', u'android', u'sockets', u'tcp']
+16633654,1368959175,True,225,1,1,0,[u'java', u'android']
+9665112,1331546959,True,480,1,0,0,[u'java', u'android', u'socketchannel']
+4081594,1288727795,True,1285,2,1,1,[u'java', u'android', u'sockets', u'nio']

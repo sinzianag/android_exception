@@ -1,0 +1,4 @@
+33305384,1445612022,False,39,1,0,6,[u'java', u'android', u'filechannel']
+23837847,1400876743,True,88,2,2,5,[u'java', u'android', u'multithreading', u'concurrency']
+9665112,1331546959,True,480,1,0,0,[u'java', u'android', u'socketchannel']
+5068783,1298307269,True,515,1,1,1,[u'java', u'android']

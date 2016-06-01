@@ -1,0 +1,8 @@
+36832269,1461560181,False,25,0,1,5,[u'php', u'android', u'mysql', u'android-fragments', u'android-studio']
+36831316,1461552907,False,46,1,0,8,[u'android', u'android-layout', u'android-fragments', u'android-studio']
+32295128,1440927203,False,267,1,0,1,[u'java', u'android', u'mysql', u'android-asynctask']
+36162965,1458673148,False,28,0,0,4,[u'android', u'json', u'parsing']
+35460134,1455721041,False,33,0,0,1,[u'android', u'mobile', u'appium']
+34971904,1453606387,True,43,1,0,3,[u'java', u'android', u'json', u'bitmap', u'imageview']
+24103958,1402212759,True,59,1,0,2,[u'java', u'android', u'download']
+23416494,1398977902,False,152,0,1,0,[u'java', u'android', u'unicode', u'zipinputstream']

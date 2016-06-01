@@ -1,0 +1,6 @@
+9685633,1331647634,False,1772,2,0,2,[u'android', u'sqlite']
+13124257,1351523117,True,4436,1,5,0,[u'android', u'android-sqlite']
+16375630,1367679530,False,701,1,1,0,[u'android', u'sqlite', u'android-contentprovider', u'android-sqlite']
+8564609,1324313454,False,4582,1,7,2,[u'android', u'sqlite', u'exception']
+6655958,1310415238,False,187,0,0,2,[u'android', u'back']
+5225374,1299532725,True,3483,1,7,0,[u'android']

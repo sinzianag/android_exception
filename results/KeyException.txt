@@ -1,0 +1,5 @@
+33072011,1444613783,False,23,0,0,0,[u'java', u'android', u'web-services']
+27854473,1420781924,False,425,1,-2,4,[u'android', u'ios', u'base64', u'aes', u'commoncrypto']
+9667288,1331556476,True,4356,2,5,2,[u'java', u'php', u'android', u'encryption']
+23488568,1399361479,False,683,1,0,2,[u'java', u'android', u'ubuntu', u'cordova', u'ubuntu-13.10']
+9251160,1329069457,False,642,1,0,1,[u'android', u'encryption', u'android-2.0-eclair']

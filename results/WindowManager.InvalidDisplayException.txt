@@ -1,0 +1,3 @@
+32900239,1443757306,False,83,0,2,1,[u'android', u'google-cast']
+29895225,1430136188,True,138,1,2,2,[u'android', u'chromecast']
+16699317,1369248082,True,596,1,0,0,[u'android', u'android-4.2-jelly-bean']
